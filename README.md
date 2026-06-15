@@ -24,7 +24,7 @@ Jeddah, Saudi Arabia · 25+ Years of Excellence · Experienced · Professional �
 
 <div align="center">
 
-| | Technology |
+| This | Technology |
 |:---|:---|
 | **Backend** | PHP |
 | **Styling** | CSS3 |
